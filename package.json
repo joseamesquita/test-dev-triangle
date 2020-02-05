@@ -1,0 +1,29 @@
+{
+  "name": "triangle-tracker",
+  "version": "1.0.0",
+  "description": "#### _{Brief description of application}, {Date of current version}_",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseamesquita/triangle-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseamesquita/triangle-tracker/issues"
+  },
+  "homepage": "https://github.com/joseamesquita/triangle-tracker#readme",
+  "devDependencies": {
+    "webpack": "4.39.3",
+    "webpack-cli": "^3.3.8"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  }
+}
