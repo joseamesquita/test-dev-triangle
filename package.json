@@ -19,7 +19,7 @@
   "homepage": "https://github.com/joseamesquita/triangle-tracker#readme",
   "devDependencies": {
     "webpack": "4.39.3",
-    "webpack-cli": "^3.3.8"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
